@@ -1,0 +1,13 @@
+{
+  "name": "@davidlares/how-to-npm-davidlares",
+  "version": "1.0.1",
+  "description": "How to NPM NodeSchool Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "David Lares S <david.e.lares@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/davidlares/davidNPM",
+  "dependencies": {}
+}
